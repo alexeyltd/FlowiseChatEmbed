@@ -42,7 +42,8 @@ export type BotProps = {
   isFullPage?: boolean;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = `Welcome to our Virtual Law Firm. 
+Lia, the personal assistance of Charis Savvides, who is powered by Artificial Intelligence, is here to answer your questions about our Law Firm and our services. You can also ask Lia to book an appointment with Charis Savvides or even to check if he is now available to talk to you. Just type your question below.`;
 
 /*const sourceDocuments = [
     {
